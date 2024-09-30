@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Margaret Yiadom - Financial Education</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Let's Talk About Your Finances</h1>
+    <p>How many days forward can you survive if you stop working due to chronic or critical illness?</p>
+  </header>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Income Protection Account</li>
+      <li>Tax-Free Account</li>
+      <li>Avoiding Probate</li>
+      <li>Kids College Fund</li>
+      <li>Legacy Transfer</li>
+    </ul>
+  </section>
+
+  <footer>
+    <p>Contact: 703-310-9458 | <a href="mailto:info@margaretyiadom.com">info@margaretyiadom.com</a></p>
+  </footer>
+</body>
+</html>
